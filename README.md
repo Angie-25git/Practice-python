@@ -1,2 +1,2 @@
 # Practice-python
-Practicing python so create amazing things
+Practicing python to create amazing things
